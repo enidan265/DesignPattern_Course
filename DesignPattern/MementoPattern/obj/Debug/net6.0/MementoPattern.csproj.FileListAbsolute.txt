@@ -1,0 +1,14 @@
+C:\Users\nberger\source\repos\DesignPattern\MementoPattern\bin\Debug\net6.0\MementoPattern.exe
+C:\Users\nberger\source\repos\DesignPattern\MementoPattern\bin\Debug\net6.0\MementoPattern.deps.json
+C:\Users\nberger\source\repos\DesignPattern\MementoPattern\bin\Debug\net6.0\MementoPattern.runtimeconfig.json
+C:\Users\nberger\source\repos\DesignPattern\MementoPattern\bin\Debug\net6.0\MementoPattern.dll
+C:\Users\nberger\source\repos\DesignPattern\MementoPattern\bin\Debug\net6.0\MementoPattern.pdb
+C:\Users\nberger\source\repos\DesignPattern\MementoPattern\obj\Debug\net6.0\MementoPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nberger\source\repos\DesignPattern\MementoPattern\obj\Debug\net6.0\MementoPattern.AssemblyInfoInputs.cache
+C:\Users\nberger\source\repos\DesignPattern\MementoPattern\obj\Debug\net6.0\MementoPattern.AssemblyInfo.cs
+C:\Users\nberger\source\repos\DesignPattern\MementoPattern\obj\Debug\net6.0\MementoPattern.csproj.CoreCompileInputs.cache
+C:\Users\nberger\source\repos\DesignPattern\MementoPattern\obj\Debug\net6.0\MementoPattern.dll
+C:\Users\nberger\source\repos\DesignPattern\MementoPattern\obj\Debug\net6.0\refint\MementoPattern.dll
+C:\Users\nberger\source\repos\DesignPattern\MementoPattern\obj\Debug\net6.0\MementoPattern.pdb
+C:\Users\nberger\source\repos\DesignPattern\MementoPattern\obj\Debug\net6.0\MementoPattern.genruntimeconfig.cache
+C:\Users\nberger\source\repos\DesignPattern\MementoPattern\obj\Debug\net6.0\ref\MementoPattern.dll

@@ -1,0 +1,14 @@
+C:\Users\nberger\source\repos\DesignPattern\DesignPattern\bin\Debug\net6.0\BuilderPattern.exe
+C:\Users\nberger\source\repos\DesignPattern\DesignPattern\bin\Debug\net6.0\BuilderPattern.deps.json
+C:\Users\nberger\source\repos\DesignPattern\DesignPattern\bin\Debug\net6.0\BuilderPattern.runtimeconfig.json
+C:\Users\nberger\source\repos\DesignPattern\DesignPattern\bin\Debug\net6.0\BuilderPattern.dll
+C:\Users\nberger\source\repos\DesignPattern\DesignPattern\bin\Debug\net6.0\BuilderPattern.pdb
+C:\Users\nberger\source\repos\DesignPattern\DesignPattern\obj\Debug\net6.0\BuilderPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nberger\source\repos\DesignPattern\DesignPattern\obj\Debug\net6.0\BuilderPattern.AssemblyInfoInputs.cache
+C:\Users\nberger\source\repos\DesignPattern\DesignPattern\obj\Debug\net6.0\BuilderPattern.AssemblyInfo.cs
+C:\Users\nberger\source\repos\DesignPattern\DesignPattern\obj\Debug\net6.0\BuilderPattern.csproj.CoreCompileInputs.cache
+C:\Users\nberger\source\repos\DesignPattern\DesignPattern\obj\Debug\net6.0\BuilderPattern.dll
+C:\Users\nberger\source\repos\DesignPattern\DesignPattern\obj\Debug\net6.0\refint\BuilderPattern.dll
+C:\Users\nberger\source\repos\DesignPattern\DesignPattern\obj\Debug\net6.0\BuilderPattern.pdb
+C:\Users\nberger\source\repos\DesignPattern\DesignPattern\obj\Debug\net6.0\BuilderPattern.genruntimeconfig.cache
+C:\Users\nberger\source\repos\DesignPattern\DesignPattern\obj\Debug\net6.0\ref\BuilderPattern.dll

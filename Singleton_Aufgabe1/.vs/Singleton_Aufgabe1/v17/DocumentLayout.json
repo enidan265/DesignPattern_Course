@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "N:\\Programming\\Programmieren-Starten\\Singleton_Aufgabe1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{600321C7-2369-412E-824A-A3FC4DD37265}|Singleton_Aufgabe1\\Singleton_Aufgabe1.csproj|n:\\programming\\programmieren-starten\\singleton_aufgabe1\\singleton_aufgabe1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{600321C7-2369-412E-824A-A3FC4DD37265}|Singleton_Aufgabe1\\Singleton_Aufgabe1.csproj|solutionrelative:singleton_aufgabe1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{600321C7-2369-412E-824A-A3FC4DD37265}|Singleton_Aufgabe1\\Singleton_Aufgabe1.csproj|n:\\programming\\programmieren-starten\\singleton_aufgabe1\\singleton_aufgabe1\\standardinterestrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{600321C7-2369-412E-824A-A3FC4DD37265}|Singleton_Aufgabe1\\Singleton_Aufgabe1.csproj|solutionrelative:singleton_aufgabe1\\standardinterestrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StandardInterestRate.cs",
+              "DocumentMoniker": "N:\\Programming\\Programmieren-Starten\\Singleton_Aufgabe1\\Singleton_Aufgabe1\\StandardInterestRate.cs",
+              "RelativeDocumentMoniker": "Singleton_Aufgabe1\\StandardInterestRate.cs",
+              "ToolTip": "N:\\Programming\\Programmieren-Starten\\Singleton_Aufgabe1\\Singleton_Aufgabe1\\StandardInterestRate.cs",
+              "RelativeToolTip": "Singleton_Aufgabe1\\StandardInterestRate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T14:20:27.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "N:\\Programming\\Programmieren-Starten\\Singleton_Aufgabe1\\Singleton_Aufgabe1\\Program.cs",
+              "RelativeDocumentMoniker": "Singleton_Aufgabe1\\Program.cs",
+              "ToolTip": "N:\\Programming\\Programmieren-Starten\\Singleton_Aufgabe1\\Singleton_Aufgabe1\\Program.cs",
+              "RelativeToolTip": "Singleton_Aufgabe1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T14:20:13.333Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

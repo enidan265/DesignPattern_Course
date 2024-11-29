@@ -1,0 +1,14 @@
+C:\Users\nadin\source\repos\Singleton_Aufgabe1\Singleton_Aufgabe1\bin\Debug\net8.0\Singleton_Aufgabe1.exe
+C:\Users\nadin\source\repos\Singleton_Aufgabe1\Singleton_Aufgabe1\bin\Debug\net8.0\Singleton_Aufgabe1.deps.json
+C:\Users\nadin\source\repos\Singleton_Aufgabe1\Singleton_Aufgabe1\bin\Debug\net8.0\Singleton_Aufgabe1.runtimeconfig.json
+C:\Users\nadin\source\repos\Singleton_Aufgabe1\Singleton_Aufgabe1\bin\Debug\net8.0\Singleton_Aufgabe1.dll
+C:\Users\nadin\source\repos\Singleton_Aufgabe1\Singleton_Aufgabe1\bin\Debug\net8.0\Singleton_Aufgabe1.pdb
+C:\Users\nadin\source\repos\Singleton_Aufgabe1\Singleton_Aufgabe1\obj\Debug\net8.0\Singleton_Aufgabe1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadin\source\repos\Singleton_Aufgabe1\Singleton_Aufgabe1\obj\Debug\net8.0\Singleton_Aufgabe1.AssemblyInfoInputs.cache
+C:\Users\nadin\source\repos\Singleton_Aufgabe1\Singleton_Aufgabe1\obj\Debug\net8.0\Singleton_Aufgabe1.AssemblyInfo.cs
+C:\Users\nadin\source\repos\Singleton_Aufgabe1\Singleton_Aufgabe1\obj\Debug\net8.0\Singleton_Aufgabe1.csproj.CoreCompileInputs.cache
+C:\Users\nadin\source\repos\Singleton_Aufgabe1\Singleton_Aufgabe1\obj\Debug\net8.0\Singleton_Aufgabe1.dll
+C:\Users\nadin\source\repos\Singleton_Aufgabe1\Singleton_Aufgabe1\obj\Debug\net8.0\refint\Singleton_Aufgabe1.dll
+C:\Users\nadin\source\repos\Singleton_Aufgabe1\Singleton_Aufgabe1\obj\Debug\net8.0\Singleton_Aufgabe1.pdb
+C:\Users\nadin\source\repos\Singleton_Aufgabe1\Singleton_Aufgabe1\obj\Debug\net8.0\Singleton_Aufgabe1.genruntimeconfig.cache
+C:\Users\nadin\source\repos\Singleton_Aufgabe1\Singleton_Aufgabe1\obj\Debug\net8.0\ref\Singleton_Aufgabe1.dll

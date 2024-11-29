@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "N:\\Programming\\Programmieren-Starten\\SOLID\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AAC9338-3C97-44B0-B93A-E99EBFB9E8FA}|SOLID\\SOLID.csproj|n:\\programming\\programmieren-starten\\solid\\solid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AAC9338-3C97-44B0-B93A-E99EBFB9E8FA}|SOLID\\SOLID.csproj|solutionrelative:solid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AAC9338-3C97-44B0-B93A-E99EBFB9E8FA}|SOLID\\SOLID.csproj|n:\\programming\\programmieren-starten\\solid\\solid\\treefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AAC9338-3C97-44B0-B93A-E99EBFB9E8FA}|SOLID\\SOLID.csproj|solutionrelative:solid\\treefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AAC9338-3C97-44B0-B93A-E99EBFB9E8FA}|SOLID\\SOLID.csproj|n:\\programming\\programmieren-starten\\solid\\solid\\birke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AAC9338-3C97-44B0-B93A-E99EBFB9E8FA}|SOLID\\SOLID.csproj|solutionrelative:solid\\birke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AAC9338-3C97-44B0-B93A-E99EBFB9E8FA}|SOLID\\SOLID.csproj|n:\\programming\\programmieren-starten\\solid\\solid\\tanne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AAC9338-3C97-44B0-B93A-E99EBFB9E8FA}|SOLID\\SOLID.csproj|solutionrelative:solid\\tanne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AAC9338-3C97-44B0-B93A-E99EBFB9E8FA}|SOLID\\SOLID.csproj|n:\\programming\\programmieren-starten\\solid\\solid\\itree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AAC9338-3C97-44B0-B93A-E99EBFB9E8FA}|SOLID\\SOLID.csproj|solutionrelative:solid\\itree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AAC9338-3C97-44B0-B93A-E99EBFB9E8FA}|SOLID\\SOLID.csproj|n:\\programming\\programmieren-starten\\solid\\solid\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AAC9338-3C97-44B0-B93A-E99EBFB9E8FA}|SOLID\\SOLID.csproj|solutionrelative:solid\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AAC9338-3C97-44B0-B93A-E99EBFB9E8FA}|SOLID\\SOLID.csproj|n:\\programming\\programmieren-starten\\solid\\solid\\treetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AAC9338-3C97-44B0-B93A-E99EBFB9E8FA}|SOLID\\SOLID.csproj|solutionrelative:solid\\treetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TreeFactory.cs",
+              "DocumentMoniker": "N:\\Programming\\Programmieren-Starten\\SOLID\\SOLID\\TreeFactory.cs",
+              "RelativeDocumentMoniker": "SOLID\\TreeFactory.cs",
+              "ToolTip": "N:\\Programming\\Programmieren-Starten\\SOLID\\SOLID\\TreeFactory.cs*",
+              "RelativeToolTip": "SOLID\\TreeFactory.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T18:25:24.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Birke.cs",
+              "DocumentMoniker": "N:\\Programming\\Programmieren-Starten\\SOLID\\SOLID\\Birke.cs",
+              "RelativeDocumentMoniker": "SOLID\\Birke.cs",
+              "ToolTip": "N:\\Programming\\Programmieren-Starten\\SOLID\\SOLID\\Birke.cs*",
+              "RelativeToolTip": "SOLID\\Birke.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T18:23:21.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tanne.cs",
+              "DocumentMoniker": "N:\\Programming\\Programmieren-Starten\\SOLID\\SOLID\\Tanne.cs",
+              "RelativeDocumentMoniker": "SOLID\\Tanne.cs",
+              "ToolTip": "N:\\Programming\\Programmieren-Starten\\SOLID\\SOLID\\Tanne.cs*",
+              "RelativeToolTip": "SOLID\\Tanne.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T18:21:08.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Color.cs",
+              "DocumentMoniker": "N:\\Programming\\Programmieren-Starten\\SOLID\\SOLID\\Color.cs",
+              "RelativeDocumentMoniker": "SOLID\\Color.cs",
+              "ToolTip": "N:\\Programming\\Programmieren-Starten\\SOLID\\SOLID\\Color.cs*",
+              "RelativeToolTip": "SOLID\\Color.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T18:02:14.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TreeType.cs",
+              "DocumentMoniker": "N:\\Programming\\Programmieren-Starten\\SOLID\\SOLID\\TreeType.cs",
+              "RelativeDocumentMoniker": "SOLID\\TreeType.cs",
+              "ToolTip": "N:\\Programming\\Programmieren-Starten\\SOLID\\SOLID\\TreeType.cs*",
+              "RelativeToolTip": "SOLID\\TreeType.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T18:01:51.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ITree.cs",
+              "DocumentMoniker": "N:\\Programming\\Programmieren-Starten\\SOLID\\SOLID\\ITree.cs",
+              "RelativeDocumentMoniker": "SOLID\\ITree.cs",
+              "ToolTip": "N:\\Programming\\Programmieren-Starten\\SOLID\\SOLID\\ITree.cs*",
+              "RelativeToolTip": "SOLID\\ITree.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T18:01:06.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "N:\\Programming\\Programmieren-Starten\\SOLID\\SOLID\\Program.cs",
+              "RelativeDocumentMoniker": "SOLID\\Program.cs",
+              "ToolTip": "N:\\Programming\\Programmieren-Starten\\SOLID\\SOLID\\Program.cs*",
+              "RelativeToolTip": "SOLID\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T13:24:49.548Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

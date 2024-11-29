@@ -1,0 +1,14 @@
+H:\Programmiersprachen\DesignPattern\ObserverPattern\bin\Debug\net6.0\ObserverPattern.exe
+H:\Programmiersprachen\DesignPattern\ObserverPattern\bin\Debug\net6.0\ObserverPattern.deps.json
+H:\Programmiersprachen\DesignPattern\ObserverPattern\bin\Debug\net6.0\ObserverPattern.runtimeconfig.json
+H:\Programmiersprachen\DesignPattern\ObserverPattern\bin\Debug\net6.0\ObserverPattern.dll
+H:\Programmiersprachen\DesignPattern\ObserverPattern\bin\Debug\net6.0\ObserverPattern.pdb
+H:\Programmiersprachen\DesignPattern\ObserverPattern\obj\Debug\net6.0\ObserverPattern.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programmiersprachen\DesignPattern\ObserverPattern\obj\Debug\net6.0\ObserverPattern.AssemblyInfoInputs.cache
+H:\Programmiersprachen\DesignPattern\ObserverPattern\obj\Debug\net6.0\ObserverPattern.AssemblyInfo.cs
+H:\Programmiersprachen\DesignPattern\ObserverPattern\obj\Debug\net6.0\ObserverPattern.csproj.CoreCompileInputs.cache
+H:\Programmiersprachen\DesignPattern\ObserverPattern\obj\Debug\net6.0\ObserverPattern.dll
+H:\Programmiersprachen\DesignPattern\ObserverPattern\obj\Debug\net6.0\refint\ObserverPattern.dll
+H:\Programmiersprachen\DesignPattern\ObserverPattern\obj\Debug\net6.0\ObserverPattern.pdb
+H:\Programmiersprachen\DesignPattern\ObserverPattern\obj\Debug\net6.0\ObserverPattern.genruntimeconfig.cache
+H:\Programmiersprachen\DesignPattern\ObserverPattern\obj\Debug\net6.0\ref\ObserverPattern.dll

@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "N:\\Programming\\Programmieren-Starten\\DesignPattern_Kurs\\DesignPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|N:\\Programming\\Programmieren-Starten\\DesignPattern_Kurs\\DesignPattern\\SingletonPattern_Aufgabe\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SingletonPattern_Aufgabe\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214DB8F3-D4E3-4036-BCC2-091DE7DB60B2}|MementoPattern\\MementoPattern.csproj|n:\\programming\\programmieren-starten\\designpattern_kurs\\designpattern\\mementopattern\\memento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{214DB8F3-D4E3-4036-BCC2-091DE7DB60B2}|MementoPattern\\MementoPattern.csproj|solutionrelative:mementopattern\\memento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214DB8F3-D4E3-4036-BCC2-091DE7DB60B2}|MementoPattern\\MementoPattern.csproj|n:\\programming\\programmieren-starten\\designpattern_kurs\\designpattern\\mementopattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{214DB8F3-D4E3-4036-BCC2-091DE7DB60B2}|MementoPattern\\MementoPattern.csproj|solutionrelative:mementopattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214DB8F3-D4E3-4036-BCC2-091DE7DB60B2}|MementoPattern\\MementoPattern.csproj|n:\\programming\\programmieren-starten\\designpattern_kurs\\designpattern\\mementopattern\\fitnessplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{214DB8F3-D4E3-4036-BCC2-091DE7DB60B2}|MementoPattern\\MementoPattern.csproj|solutionrelative:mementopattern\\fitnessplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214DB8F3-D4E3-4036-BCC2-091DE7DB60B2}|MementoPattern\\MementoPattern.csproj|n:\\programming\\programmieren-starten\\designpattern_kurs\\designpattern\\mementopattern\\caretakter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{214DB8F3-D4E3-4036-BCC2-091DE7DB60B2}|MementoPattern\\MementoPattern.csproj|solutionrelative:mementopattern\\caretakter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "N:\\Programming\\Programmieren-Starten\\DesignPattern_Kurs\\DesignPattern\\SingletonPattern_Aufgabe\\Program.cs",
+              "RelativeDocumentMoniker": "SingletonPattern_Aufgabe\\Program.cs",
+              "ToolTip": "N:\\Programming\\Programmieren-Starten\\DesignPattern_Kurs\\DesignPattern\\SingletonPattern_Aufgabe\\Program.cs",
+              "RelativeToolTip": "SingletonPattern_Aufgabe\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T17:08:38.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Caretakter.cs",
+              "DocumentMoniker": "N:\\Programming\\Programmieren-Starten\\DesignPattern_Kurs\\DesignPattern\\MementoPattern\\Caretakter.cs",
+              "RelativeDocumentMoniker": "MementoPattern\\Caretakter.cs",
+              "ToolTip": "N:\\Programming\\Programmieren-Starten\\DesignPattern_Kurs\\DesignPattern\\MementoPattern\\Caretakter.cs",
+              "RelativeToolTip": "MementoPattern\\Caretakter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T16:32:18.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Memento.cs",
+              "DocumentMoniker": "N:\\Programming\\Programmieren-Starten\\DesignPattern_Kurs\\DesignPattern\\MementoPattern\\Memento.cs",
+              "RelativeDocumentMoniker": "MementoPattern\\Memento.cs",
+              "ToolTip": "N:\\Programming\\Programmieren-Starten\\DesignPattern_Kurs\\DesignPattern\\MementoPattern\\Memento.cs",
+              "RelativeToolTip": "MementoPattern\\Memento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T16:27:37.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FitnessPlan.cs",
+              "DocumentMoniker": "N:\\Programming\\Programmieren-Starten\\DesignPattern_Kurs\\DesignPattern\\MementoPattern\\FitnessPlan.cs",
+              "RelativeDocumentMoniker": "MementoPattern\\FitnessPlan.cs",
+              "ToolTip": "N:\\Programming\\Programmieren-Starten\\DesignPattern_Kurs\\DesignPattern\\MementoPattern\\FitnessPlan.cs",
+              "RelativeToolTip": "MementoPattern\\FitnessPlan.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T16:25:29.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "N:\\Programming\\Programmieren-Starten\\DesignPattern_Kurs\\DesignPattern\\MementoPattern\\Program.cs",
+              "RelativeDocumentMoniker": "MementoPattern\\Program.cs",
+              "ToolTip": "N:\\Programming\\Programmieren-Starten\\DesignPattern_Kurs\\DesignPattern\\MementoPattern\\Program.cs",
+              "RelativeToolTip": "MementoPattern\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T16:12:04.537Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

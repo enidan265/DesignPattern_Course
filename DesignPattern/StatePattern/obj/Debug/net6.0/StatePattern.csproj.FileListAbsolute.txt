@@ -1,0 +1,14 @@
+H:\Programmiersprachen\DesignPattern\StatePattern\bin\Debug\net6.0\StatePattern.exe
+H:\Programmiersprachen\DesignPattern\StatePattern\bin\Debug\net6.0\StatePattern.deps.json
+H:\Programmiersprachen\DesignPattern\StatePattern\bin\Debug\net6.0\StatePattern.runtimeconfig.json
+H:\Programmiersprachen\DesignPattern\StatePattern\bin\Debug\net6.0\StatePattern.dll
+H:\Programmiersprachen\DesignPattern\StatePattern\bin\Debug\net6.0\StatePattern.pdb
+H:\Programmiersprachen\DesignPattern\StatePattern\obj\Debug\net6.0\StatePattern.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programmiersprachen\DesignPattern\StatePattern\obj\Debug\net6.0\StatePattern.AssemblyInfoInputs.cache
+H:\Programmiersprachen\DesignPattern\StatePattern\obj\Debug\net6.0\StatePattern.AssemblyInfo.cs
+H:\Programmiersprachen\DesignPattern\StatePattern\obj\Debug\net6.0\StatePattern.csproj.CoreCompileInputs.cache
+H:\Programmiersprachen\DesignPattern\StatePattern\obj\Debug\net6.0\StatePattern.dll
+H:\Programmiersprachen\DesignPattern\StatePattern\obj\Debug\net6.0\refint\StatePattern.dll
+H:\Programmiersprachen\DesignPattern\StatePattern\obj\Debug\net6.0\StatePattern.pdb
+H:\Programmiersprachen\DesignPattern\StatePattern\obj\Debug\net6.0\StatePattern.genruntimeconfig.cache
+H:\Programmiersprachen\DesignPattern\StatePattern\obj\Debug\net6.0\ref\StatePattern.dll
